@@ -11,10 +11,3 @@ I'm a very creative person, so seeing it all come together is my favorite part e
 
 ## A Work in Progress
 I realize now that I'm going to be learning all my life in this field. But nonetheless, I hope to build a bit of a Web Dev. tool belt and add to it as needed so as to stay on top of the curve as technology continues to grow and evolve.
-
-## Want to know more about my previous projects?
-
-Check out these:
-
-[My portfolio] (https://medium.com/@staceyrichard1996)
-[My Personal Web Domain] (http://richardstaceyweb.com/)
