@@ -16,5 +16,5 @@ I realize now that I'm going to be learning all my life in this field. But nonet
 
 Check out these:
 
-- [My portfolio] (https://medium.com/@staceyrichard1996)
-- [My Personal Web Domain] (http://richardstaceyweb.com/)
+[My portfolio] (https://medium.com/@staceyrichard1996)
+[My Personal Web Domain] (http://richardstaceyweb.com/)
