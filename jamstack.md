@@ -1,3 +1,7 @@
+title: Jamstack
+layout: template
+filename: jamstack.md
+
 ### Experiences and lessons with Jamstack
 
 ## What is Jamstack
