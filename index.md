@@ -1,4 +1,4 @@
-#### Welcome to the Blog of Richard Stacey! The Developing Writer!
+### Welcome to the Blog of Richard Stacey! The Developing Writer!
 
 ## Who am I?
 My full name is Richard Mark Stacey and after my full time mission for The Church of Jesus Christ of Latter-Day Saints, I have returned to Utah Valley University and recently aqquired my associates degree and am working on my Bachelor's. I consider myself to be a decent Web Developer and Designer, but I have a lot to learn and intend to keep moving forward in this degree. My username comes from the fact that I also enjoy creative Writing, alongside Dnd, Legos, and Video Games, it is one of my hobbies. As for family, I come from a Family of five with 2 siblings. An older and a younger sister. I am a fantasy, Marvel, and Disney Nerd and find fascination in these topics.
