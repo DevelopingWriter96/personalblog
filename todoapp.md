@@ -1,6 +1,6 @@
 ### Learning Through Failure: The Todo App that made me sweat
 
-[Screenshot (143).png]
+["Screenshot (143).png"]
 
 ## How does it work
 It works by using a function to draw from an array in the Javascript and applying it to the html. The delete uses a removeChild function. And the toggle uses a Style= "none" or Style = "block" Switch. All with a healthy amount of loops. Its crude, but it works. The CSS is simply used to make it easier to view on mobiles and tablets as well as desktops but was applied to the project quickly so as to primarily focus on the Javascript.
