@@ -1,9 +1,10 @@
 ### Databases, Databases, oh My!
 
 ## SQL Databases
-
+SQL Databases appear to be the standard when it comes to databases. The name comes from the language SQL which stands for Structured Query language. Current features include DDL, DML, as well as various triggers. The Main thing that sets things apart though is that SQL servers are table based and therefore store their data in that format and am also therefore vertically scalable. Therefore, its better to use it when there are strong relations in the data. With this comes faster Query processing, Standardized language, and portability. However, it also comes with the drawbacks of Complex interface, high cost, and only partial control.
 
 ## NoSQL
-
+However, as you can imagine, SQL is not always needed to make a good database. If they don't need to have strong relations, this is the way to go. Approaching it this way allows for Schema Agnostic, Nonrelational connections, Commidity Hardware among other things. NoSQLs are not table based, so unlike their table-based brother, they are scalable primarily vertically. Interestingly enough, this makes it more scalable, as well as Economical, and Able to store massive amounts of Data. However, it hasn't been around as long as SQL and therefore isn't as refined, not to mention it requires Business and Analytics know-how in order to properly use.
 
 ## Centralized Databases
+Anyone who thinks that these two options are the only ones are sorely mistaken, as there are multiple ones. A Centralized Database, for example. This one can be used to store multiple Data Areas on one computer, kind of like a spoke and hub approach. This could work if there is a strong common theme with said database, as it helps maximize data integrity, Allows for stronger security, And easy access. However, it comes at a cost of increased access and search time, A lot of traffic, and possibilty of all the data being destroyed in a catastrophic failure. However, what database to use depends on your skills and preferences, as with a lot of technologies. 
